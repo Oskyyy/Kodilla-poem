@@ -1,4 +1,5 @@
 body {
+    display: -ms-flexbox;
     display: flex;
     margin-left: 700px;
     margin-right: 700px;
